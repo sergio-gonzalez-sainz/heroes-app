@@ -1,4 +1,4 @@
-import { elementos, heroes, busquedasRecientes } from './global.js';
+import { elementos } from './global.js';
 import { initTodosHeroes } from './TodosHeroes.component.js';
 import { initBusquedaComponent } from './Busqueda.component.js';
 import { initRegistro } from './Registro.component.js';
